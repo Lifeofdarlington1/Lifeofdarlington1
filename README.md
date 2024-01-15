@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript and CSS
 - 🌱 I’m currently learning HTML5
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me darlingtonn1887@gmail.com
+- 📫 
 
 <!---
 Lifeofdarlington1/Lifeofdarlington1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
